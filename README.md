@@ -8,3 +8,5 @@ https://lilianweng.github.io/
 http://colah.github.io/
 ## Stanford machine learning and Ph.D. career and paper writing
 http://karpathy.github.io/
+### A guide to paper writing
+http://karpathy.github.io/2016/09/07/phd/
